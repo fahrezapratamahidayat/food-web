@@ -574,10 +574,6 @@ const FoodOrderingApp = () => {
                     <h2 className='text-4xl font-bold text-gray-900 mb-3 bg-gradient-to-r from-orange-500 to-amber-500 bg-clip-text  inline-block'>
                         Menu Makanan
                     </h2>
-                    <p className='text-gray-600 max-w-2xl mx-auto'>
-                        Pilih makanan favorit Anda dan tambahkan ke keranjang
-                        untuk memesan
-                    </p>
                 </div>
 
                 <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8'>
